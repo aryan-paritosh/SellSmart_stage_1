@@ -87,6 +87,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🔗 **Connect with Me:** [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+🔗 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/aryan-paritosh/) | [GitHub](https://github.com/aryan-paritosh)
 
 
